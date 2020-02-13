@@ -1,0 +1,7 @@
+Elasticsearch is an open source, full-text search and analysis engine, based on the Apache Lucene search engine. 
+Logstash is a log aggregator that collects data from various input sources, executes different transformations and enhancements and then ships the data to various supported output destinations.
+Kibana is a visualization layer that works on top of Elasticsearch, providing users with the ability to analyze and visualize the data
+
+Together, these different components are most commonly used for monitoring, troubleshooting and securing IT environments
+
+Elasticsearch indexes and stores the data, and Kibana provides a user interface for querying the data and visualizing it.
